@@ -45,6 +45,12 @@ Claves:
 * 
 * Como el dominio no tiene dependencia con librerias externas ni integraciones (clientes rest, base de datos, etc) es fácil implementar test unitarios.
 
+
+## Caso práctico 2
+
+![](./images/caso-practico-2.jpg)
+
+
 ## Enlaces interes
 
 * https://github.com/martinachov
